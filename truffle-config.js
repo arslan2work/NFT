@@ -1,6 +1,6 @@
 const HDWalletProvider = require('@truffle/hdwallet-provider');
 const provider = new HDWalletProvider({
-  privateKeys: ['c573eb0dcb727584db8577f5fcb8a6dcec25888edfdc9ca4a21f239b43771d75'],
+  privateKeys: ['499ca245248bf55a2677e82c30b3ac899ec7788d9bc6a1e2d716b6d3b1b74139'],
   providerOrUrl: 'HTTP://127.0.0.1:7545/'
 });
 

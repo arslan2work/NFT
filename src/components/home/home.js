@@ -18,7 +18,7 @@ const Home = () => {
 
     return (
 
-        <div class="home-body">
+        <div className="home-body">
         
         <div className="row home-adj">
             <div className="col-sm-6" >
